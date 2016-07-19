@@ -1,2 +1,1 @@
-# newtonics
-basic Newtonian physics engine
+newtonics
